@@ -1,0 +1,4 @@
+Par 2 2 X deve ser diferente de Y 
+Par 1 3 já inserido 
+Par 0 0 X deve ser diferente de Y 
+
